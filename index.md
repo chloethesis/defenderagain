@@ -6,9 +6,9 @@
 </center>
 
 
-<pre>🔴🟢🟡&emsp;&emsp;&emsp;&emsp; root@chloethesis &emsp;&emsp;&emsp;&emsp;—⠀❐⠀⤬</pre>
+<pre>🔴🟢🟡&emsp;&emsp;&emsp;&emsp; root@chloethesis &emsp;&emsp;&emsp;&emsp;—⠀❐⠀⤬
 
-<pre>
+ 
 ╭── [ root@chloethesis ]-[~]
 ╰──〉$whoami
  
