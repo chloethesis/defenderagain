@@ -2,8 +2,11 @@
 
 <code> 🔴🟢🟡    root@chloethesis    —⠀❐⠀⤬ </code>
 
+<pre>
 ╭── [ root@chloethesis ]-[~]
 ╰──〉$whoami
+I'm a cool human being made to complete life 
+</pre>
 
  | Tools | Socials | Anime |
 | :---         |     :---:      |          ---: |
