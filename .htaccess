@@ -1,1 +1,2 @@
-ErrorDocument 404 /404.html
+# This allows you to redirect index.html to a specific subfolder
+Redirect /index.html https://chloethesis.github.io/defenderagain/
