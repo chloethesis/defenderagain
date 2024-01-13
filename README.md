@@ -1,6 +1,5 @@
 ## 🤓 Hello ningen, you're in my area now!
 
-<hr>
 
 <code> 🔴🟢🟡            root@chloethesis            —⠀❐⠀⤬ </code>
 
@@ -12,7 +11,7 @@
 to complete life</b>
 </pre>
 
- | Tools | Socials | Anime |
+ | 〉Tools | 〉Socials | 〉 Anime |
 | :---         |     :---:      |          ---: |
 | Subdomain Scanner   | git status     | git status    |
 | git diff     | git diff       |eksk      |
