@@ -1,4 +1,4 @@
-# Hello ningen, you're in my area now!
+## :dependabot: Hello ningen, you're in my area now!
 
 ` 🔴🟢🟡    root@chloethesis    —⠀❐⠀⤬ `
 
