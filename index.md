@@ -7,12 +7,12 @@ layout: default
   🤓 Hello ningen, you're in my area now!
  </h1>
 
-<a href="/discord">Join Server Discord</a>
+<a href="./discord">Join Server Discord</a>
 
 for more information please click the following link and join. 
 <br />
 <br />
-if the link is broken please contact my <a href="chloetease@waifu.club">Email</a>
+if the link is broken please contact my <a href="mailto:chloetease@waifu.club">Email</a>
 </center>
 
 
