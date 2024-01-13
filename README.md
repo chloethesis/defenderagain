@@ -1,6 +1,6 @@
-## :dependabot: Hello ningen, you're in my area now!
+## 🤓 Hello ningen, you're in my area now!
 
-` 🔴🟢🟡    root@chloethesis    —⠀❐⠀⤬ `
+<code> 🔴🟢🟡    root@chloethesis    —⠀❐⠀⤬ </code>
 
  | Tools | Socials | Anime |
 | :---         |     :---:      |          ---: |
