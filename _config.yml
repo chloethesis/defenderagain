@@ -1,7 +1,7 @@
 title: 'chloethesis.github.io'
 description: "welcome to my github"
-baseurl: "/_posts"
-url: "https://chloethesis.github.io"
+baseurl: "/jekyll-theme-console-demo-hacker"
+url: "https://b2a3e8.github.io"
 
 header_pages:
   - index.md
@@ -11,7 +11,7 @@ header_pages:
 
 style: hacker
 
-footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
+footer: 'follow us on <a href="https://discord.gg/">discord</a>'
 
 # Build settings
 markdown: kramdown
