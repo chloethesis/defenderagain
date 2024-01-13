@@ -1,7 +1,7 @@
 ## 🤓 Hello ningen, you're in my area now!
 
 
-<code> 🔴🟢🟡            root@chloethesis            —⠀❐⠀⤬ </code>
+<code> 🔴🟢🟡&emsp;&emsp;root@chloethesis&emsp;&emsp;—⠀❐⠀⤬ </code>
 
 <pre>
 ╭── [ root@chloethesis ]-[~]
