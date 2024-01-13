@@ -7,13 +7,20 @@
 ╭── [ root@chloethesis ]-[~]
 ╰──〉$whoami
  
-<p>i'm a cool human being made to complete life</p>
+i'm a cool human being made to complete life
 
 ╭── [ root@chloethesis ]-[~]
-╰──〉$cd /home/chloethesis/
+╰──〉$ls -la
 
-╭── [ root@chloethesis ]-[~]
-╰──〉$cd /home/chloethesis/
+ Desktops
+ Documents
+ Download
+ Tools
+ Music
+ Pictures
+ Videos
+ Anime
+ 
  
 </pre>
 
