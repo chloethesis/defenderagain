@@ -1,8 +1,15 @@
+---
+layout: default
+---
 
 <center>
  <h1>
   🤓 Hello ningen, you're in my area now!
  </h1>
+
+for more information please click the following link and join. 
+
+if the link is broken please contact my [EMAIL](chloetease@waifu.club).
 </center>
 
 
@@ -46,3 +53,5 @@ Music
 | :---:         |     :---:      |    
 | Maintenance   | Maintanance    | 
 | Maintanance     | Maintanance  | 
+
+
