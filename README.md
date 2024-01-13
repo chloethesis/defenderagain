@@ -2,6 +2,9 @@
 
 <code> 🔴🟢🟡    root@chloethesis    —⠀❐⠀⤬ </code>
 
+╭── [ root@chloethesis ]-[~]
+╰──〉$whoami
+
  | Tools | Socials | Anime |
 | :---         |     :---:      |          ---: |
 | Subdomain Scanner   | git status     | git status    |
