@@ -52,13 +52,13 @@ Music
  
 </pre>
 
+<br />
+
 ## **〉More**
  | Tools | Socials | 
 | :---:         |     :---:      |    
 | [Whois](./tools/whois)   | [Discord](https://discord.gg/)    | 
 | [Dns Lookup](./tools/dns)     | [Github](https://github.com/chloethesis)  | 
-| [Reverse IP](./tools/reverse)   | [Breachforums](https://breachforums.is/)    | 
-| [Discord date](./tools/dc-date)     | [Darkforums](https://darkforums.me/)  
 
 <hr>
 
