@@ -55,7 +55,9 @@ Music
 <br />
 
 ## **〉Cooming Soon**
+
  * API TOOLS
+   
    * <a href="./tools/rev/">Reverse IP</a>
    * <a href="./tools/whois/">Whois</a>
    * <a href="./tools/discord-date/">Discord Date Information</a>
@@ -63,7 +65,10 @@ Music
    * <a href="./tools/dns/">Dns Lookup</a>
    * <a href="./tools/ip/">Geolocation</a>
    
+   <br />
+   
 * SOCIAL
+  
   * <a href="https://darkforums.me/">Darkforums</a>
   * <a href="https://breachforums.is/">Breachforums</a>
   * <a href="mailto:dimitri@fbi.gov">Email</a>
