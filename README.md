@@ -5,7 +5,9 @@
 <pre>
 ╭── [ root@chloethesis ]-[~]
 ╰──〉$whoami
-I'm a cool human being made to complete life 
+ 
+<b>i'm a cool human being made 
+to complete life</b>
 </pre>
 
  | Tools | Socials | Anime |
