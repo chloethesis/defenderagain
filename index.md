@@ -54,12 +54,21 @@ Music
 
 <br />
 
-## **〉More**
- | Tools | Socials | 
-| :---:         |     :---:      |    
-| [Whois](./tools/whois)   | [Discord](https://discord.gg/)    | 
-| [Dns Lookup](./tools/dns)     | [Github](https://github.com/chloethesis)  | 
-
+## **〉Cooming Soon**
+ * API TOOLS
+   * <a href="./tools/rev/">Reverse IP</a>
+   * <a href="./tools/whois/">Whois</a>
+   * <a href="./tools/discord-date/">Discord Date Information</a>
+   * <a href="./tools/breach/">Data Breach</a>
+   * <a href="./tools/dns/">Dns Lookup</a>
+   * <a href="./tools/ip/">Geolocation</a>
+   
+* SOCIAL
+  * <a href="https://darkforums.me/">Darkforums</a>
+  * <a href="https://breachforums.is/">Breachforums</a>
+  * <a href="mailto:dimitri@fbi.gov">Email</a>
+  * <a href="https://github.com/chloethesis/">Github</a>
+  
 <hr>
 
 <center>
