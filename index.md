@@ -4,7 +4,7 @@ layout: default
 
 <center>
  <h1>
-  🤓 Hello ningen, you're in my area now!
+  🔎 Hello ningen, you're in my area now!
  </h1>
 
 <a href="./discord">Join Server Discord</a>
