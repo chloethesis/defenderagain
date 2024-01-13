@@ -2,7 +2,7 @@
 
 <hr>
 
-<code> 🔴🟢🟡    root@chloethesis    —⠀❐⠀⤬ </code>
+<code> 🔴🟢🟡            root@chloethesis            —⠀❐⠀⤬ </code>
 
 <pre>
 ╭── [ root@chloethesis ]-[~]
