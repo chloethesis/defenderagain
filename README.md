@@ -1,6 +1,6 @@
 ## 🤓 Hello ningen, you're in my area now!
 
-______
+<hr>
 
 <code> 🔴🟢🟡    root@chloethesis    —⠀❐⠀⤬ </code>
 
