@@ -51,7 +51,7 @@ Music
 
  | Tools | Socials | 
 | :---:         |     :---:      |    
-| Maintenance   | Maintanance    | 
-| Maintanance     | Maintanance  | 
+| [Whois](./tools/whois)   | [Discord](https://discord.gg/)    | 
+| [Dns Lookup](./tools/dns)     | [Github](https://github.com/chloethesis)  | 
 
 
