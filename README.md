@@ -5,7 +5,7 @@
 </center>
 
 
-<code> 🔴🟢🟡&emsp;&emsp;&emsp;&emsp; root@chloethesis &emsp;&emsp;&emsp;&emsp;—⠀❐⠀⤬ </code>
+<pre> 🔴🟢🟡&emsp;&emsp;&emsp;&emsp; root@chloethesis &emsp;&emsp;&emsp;&emsp;—⠀❐⠀⤬ </pre>
 
 <pre>
 ╭── [ root@chloethesis ]-[~]
