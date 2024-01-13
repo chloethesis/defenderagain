@@ -16,19 +16,15 @@ i'm a cool human being made to complete life
 ╭── [ root@chloethesis ]-[~]
 ╰──〉$ls -la
 
- Desktops
- Documents
+ Desktops             Pictures
+ Documents            Videos
  Download
- Tools
  Music
- Pictures
- Videos
- Anime
  
  
 </pre>
 
- | Tools | Socials | 
-| :---         |     :---:      |       
-| Maintenance   | Maintanance    |
-| Maintanance     | Maintanance      |
+ | Tools | Socials | Forum
+| :---:         |     :---:      |     :---:|   
+| Maintenance   | Maintanance    | Darkforum
+| Maintanance     | Maintanance  | Breachforums
