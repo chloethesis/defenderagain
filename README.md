@@ -1,4 +1,8 @@
-## 🤓 Hello ningen, you're in my area now!
+<center>
+ <h1>
+  🤓 Hello ningen, you're in my area now!
+ </h1>
+</center>
 
 
 <code> 🔴🟢🟡&emsp;&emsp;&emsp;root@chloethesis&emsp;&emsp;&emsp;—⠀❐⠀⤬ </code>
@@ -26,5 +30,5 @@ i'm a cool human being made to complete life
 
  | Tools | Socials | 
 | :---         |     :---:      |       
-| Subdomain Scanner   | git status     | asu    |
-| Reverse IP     | git diff      |
+| Maintenance   | Maintanance    |
+| Maintanance     | Maintanance      |
