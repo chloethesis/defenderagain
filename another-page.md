@@ -1,7 +1,3 @@
----
-layout: default
----
-
 ## Join my server discord
 
 _yay_
