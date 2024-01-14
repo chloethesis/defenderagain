@@ -1,5 +1,12 @@
 title: Chloethesis
 description: Welcome to my github pages!
 show_downloads: true
+
+header_pages:
+  - index.md
+  - download.md
+  - about.md
+  - contact.md
+  
 google_analytics:
 theme: jekyll-theme-hacker
