@@ -16,7 +16,7 @@ if the link is broken please contact my <a href="mailto:chloetease@waifu.club">E
 </center>
 
 
-<pre>🔴🟢🟡                              root@chloethesis                              —⠀❐⠀⤬
+<pre>🔴🟢🟡                                    root@chloethesis                                    —⠀❐⠀⤬
 
  
 ╭── [ root@chloethesis ]-[~]
