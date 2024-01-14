@@ -10,3 +10,6 @@ header_pages:
   
 google_analytics:
 theme: jekyll-theme-hacker
+
+# build
+markdown: kramdown
