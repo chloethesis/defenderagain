@@ -80,9 +80,9 @@ Music
 
 * TIPS & TRICK
   
-  * <a href="">One</a>
-  * <a href="">Two</a>
-  * <a href="">Three</a>
+  * <a href="./_posts/1/">One</a>
+  * <a href="./_posts/2/">Two</a>
+  * <a href="./_posts/3/">Three</a>
 
 <hr>
 
