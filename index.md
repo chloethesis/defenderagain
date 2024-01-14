@@ -84,6 +84,13 @@ Music
   * <a href="./_posts/2/">Two</a>
   * <a href="./_posts/3/">Three</a>
 
+  <br />
+
+* WATCH ANIME
+
+  * <a href="./_anime/">Anime</a>
+
+
 <hr>
 
 <center>
