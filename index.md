@@ -73,7 +73,17 @@ Music
   * <a href="https://breachforums.is/">Breachforums</a>
   * <a href="mailto:dimitri@fbi.gov">Email</a>
   * <a href="https://github.com/chloethesis/">Github</a>
+
+<br />
+
+## **〉Posts**
+
+* TIPS & TRICK
   
+  * <a href="">One</a>
+  * <a href="">Two</a>
+  * <a href="">Three</a>
+
 <hr>
 
 <center>
