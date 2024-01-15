@@ -1,6 +1,6 @@
 ---
 title: /_about
-layout: page
+layout: default
 permalink: /_about
 ---
 
