@@ -1,8 +1,8 @@
 
 ---
-title: /download
+title: /_download
 layout: page
-permalink: /download
+permalink: /_download
 ---
 
 # Download Source & Code
