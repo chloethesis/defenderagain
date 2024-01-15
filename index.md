@@ -15,7 +15,7 @@ for more information please click the following link and join.
 if the link is broken please contact my <a href="mailto:chloetease@waifu.club">Email</a>
 <br />
 <br />
-<a href="./about/">About</a>〡<a href="./contact/">Contact</a>〡<a href="./download/">Download</a>
+<a href="./_about/">About</a>〡<a href="./_contact/">Contact</a>〡<a href="./_download/">Download</a>
 </center>
 
 
