@@ -58,12 +58,12 @@ Music
 
  * API TOOLS
    
-   * <a href="./tools/rev/">Reverse IP</a>
-   * <a href="./tools/whois/">Whois</a>
-   * <a href="./tools/discord-date/">Discord Date Information</a>
-   * <a href="./tools/breach/">Data Breach</a>
-   * <a href="./tools/dns/">Dns Lookup</a>
-   * <a href="./tools/ip/">Geolocation</a>
+   * <a href="./_tools/rev/">Reverse IP</a>
+   * <a href="./_tools/whois/">Whois</a>
+   * <a href="./_tools/discord-date/">Discord Date Information</a>
+   * <a href="./_tools/breach/">Data Breach</a>
+   * <a href="./_tools/dns/">Dns Lookup</a>
+   * <a href="./_tools/ip/">Geolocation</a>
    
    <br />
    
