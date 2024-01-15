@@ -1,7 +1,7 @@
 ---
-title: /contact
-layout: page
-permalink: /contact
+title: /_contact
+layout: default
+permalink: /_contact
 ---
 
 # Contact
