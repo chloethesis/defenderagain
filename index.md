@@ -58,12 +58,12 @@ Music
 
  * API TOOLS
    
-   * <a href="./_tools/rev/">Reverse IP</a>
-   * <a href="./_tools/whois/">Whois</a>
-   * <a href="./_tools/discord-date/">Discord Date Information</a>
-   * <a href="./_tools/breach/">Data Breach</a>
-   * <a href="./_tools/dns/">Dns Lookup</a>
-   * <a href="./_tools/ip/">Geolocation</a>
+   * <a href="https://chloethesis.github.io/tools/rev/">Reverse IP</a>
+   * <a href="https://chloethesis.github.io/tools/whois/">Whois</a>
+   * <a href="https://chloethesis.github.io/tools/discord-date/">Discord Date Information</a>
+   * <a href="https://chloethesis.github.io/tools/breach/">Data Breach</a>
+   * <a href="https://chloethesis.github.io/tools/dns/">Dns Lookup</a>
+   * <a href="https://chloethesis.github.io/tools/ip/">Geolocation</a>
    
    <br />
    
