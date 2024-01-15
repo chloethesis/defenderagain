@@ -1,6 +1,6 @@
 ---
 title: /_download
-layout: page
+layout: default
 permalink: /_download
 ---
 
