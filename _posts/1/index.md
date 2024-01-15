@@ -1,7 +1,7 @@
 ---
-title: /_posts
+title: /posts
 layout: page
-permalink: /_posts
+permalink: /posts
 ---
 
 # Auth SQLI Bypass List
