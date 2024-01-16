@@ -64,7 +64,7 @@ Music
    * <a href="https://chloethesis.github.io/tools/discord-date/">Discord Date Information</a>
    * <a href="https://chloethesis.github.io/tools/breach/">Data Breach</a>
    * <a href="https://chloethesis.github.io/tools/dns/">Dns Lookup</a>
-   * <a href="https://chloethesis.github.io/tools/ip/">Geolocation</a>
+   * <a href="https://chloethesis.github.io/tools/geolocation/">Geolocation</a>
    
    <br />
    
