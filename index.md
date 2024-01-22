@@ -70,8 +70,8 @@ Music
    
 * SOCIAL
   
-  * <a href="https://darkforums.me/">Darkforums</a>
-  * <a href="https://breachforums.is/">Breachforums</a>
+  * <a href="about:blank#blocked">Bio Link</a>
+  * <a href="about:blank#blocked">Replit</a>
   * <a href="mailto:dimitri@fbi.gov">Email</a>
   * <a href="https://github.com/chloethesis/">Github</a>
 
@@ -81,9 +81,9 @@ Music
 
 * TIPS & TRICK
   
-  * <a href="./_posts/1/">Auth SQLI Bypass List</a>
-  * <a href="./_posts/2/">Two</a>
-  * <a href="./_posts/3/">Three</a>
+  * <a href="https://chloethesis.github.io/posts/sharing/post1/" target="_blank">Auth SQLI Bypass List</a>
+  * <a href="https://chloethesis.github.io/posts/sharing/post2/" target="_blank">Two</a>
+  * <a href="https://chloethesis.github.io/posts/sharing/post3/" target="_blank">Three</a>
 
   <br />
 
