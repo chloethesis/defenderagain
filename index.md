@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<script>alert(document.cookie);</script>
+<script>alert(document.domain);</script>
 
 <center>
  <h1>
@@ -10,7 +10,7 @@ layout: default
  </h1>
 
  <div align="center">
-  <a href="/"><img src="https://raw.githubusercontent.com/chloethesis/defenderagain/discord/icon/animated.gif" id="icon" alt="icon" width="100%" style="border-radius:100px;"></a>
+  <a href="/"><img src="https://raw.githubusercontent.com/chloethesis/defenderagain/discord/icon/animated.gif" id="icon" alt="icon" width="100%" style="border-radius:1000px;"></a>
  </div>
 
  <br />
