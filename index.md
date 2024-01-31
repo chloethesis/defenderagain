@@ -3,7 +3,6 @@ layout: default
 ---
 
 <center>
- <script>alert("welcome");</script>
  <h1>
   🔎 Hello ningen, you're in my area now!
  </h1>
