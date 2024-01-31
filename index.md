@@ -8,7 +8,7 @@ layout: default
  </h1>
 
  <div align="center">
-  <img src="/icon/animated.gif" id="icon" alt="icon" width="90%">
+  <img src="https://raw.githubusercontent.com/chloethesis/defenderagain/discord/icon/animated.gif" id="icon" alt="icon" width="90%">
  </div>
 
  <br />
