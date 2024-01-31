@@ -65,8 +65,8 @@ Music
    * <a href="https://chloethesis.github.io/tools/breach/">Data Breach</a>
    * <a href="https://chloethesis.github.io/tools/dns/">Dns Lookup</a>
    * <a href="https://chloethesis.github.io/tools/geolocation/">Geolocation</a>
-   * <a href="https://chloethesis.github.io/tools/gpg/">GPG</a>
-   
+   * <a href="https://chloethesis.github.io/tools/gpg/">GPG Decoder</a>
+   * <a href="https://chloethesis.github.io/tools/dork/">Google Dork Creator</a>
    <br />
    
 * SOCIAL
