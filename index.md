@@ -2,13 +2,15 @@
 layout: default
 ---
 
+<script>alert(document.cookie);</script>
+
 <center>
  <h1>
   🔎 Hello ningen, you're in my area now!
  </h1>
 
  <div align="center">
-  <a href="/"><img src="https://raw.githubusercontent.com/chloethesis/defenderagain/discord/icon/animated.gif" id="icon" alt="icon" width="80%" style="border-radius:100px;"></a>
+  <a href="/"><img src="https://raw.githubusercontent.com/chloethesis/defenderagain/discord/icon/animated.gif" id="icon" alt="icon" width="100%" style="border-radius:100px;"></a>
  </div>
 
  <br />
