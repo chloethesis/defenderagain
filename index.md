@@ -7,6 +7,12 @@ layout: default
   🔎 Hello ningen, you're in my area now!
  </h1>
 
+ <div align="center">
+  <img src="/icon/animated.gif" id="icon" alt="icon" width="90%">
+ </div>
+
+ <br />
+
 <a href="./discord">Join Server Discord</a>
 
 for more information please click the following link and join. 
