@@ -57,7 +57,7 @@ Music
 
 ## **〉Cooming Soon**
 
- * API TOOLS
+ * TOOLS
    
    * <a href="https://chloethesis.github.io/tools/rev/">Reverse IP</a>
    * <a href="https://chloethesis.github.io/tools/whois/">Whois</a>
@@ -65,6 +65,7 @@ Music
    * <a href="https://chloethesis.github.io/tools/breach/">Data Breach</a>
    * <a href="https://chloethesis.github.io/tools/dns/">Dns Lookup</a>
    * <a href="https://chloethesis.github.io/tools/geolocation/">Geolocation</a>
+   * <a href="https://chloethesis.github.io/tools/gpg/">GPG</a>
    
    <br />
    
