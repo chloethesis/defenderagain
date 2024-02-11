@@ -2,8 +2,6 @@
 layout: default
 ---
 
-<script>alert(document.domain);</script>
-
 <center>
  <h1>
   🔎 Hello ningen, you're in my area now!
@@ -90,9 +88,9 @@ Music
 
 * TIPS & TRICK
   
-  * <a href="https://chloethesis.github.io/posts/sharing/post1/" target="_blank">Auth SQLI Bypass List</a>
-  * <a href="https://chloethesis.github.io/posts/sharing/post2/" target="_blank">Two</a>
-  * <a href="https://chloethesis.github.io/posts/sharing/post3/" target="_blank">Three</a>
+  * <a href="https://chloethesis.github.io/sharing/1/" target="_blank">Auth SQLI Bypass List</a>
+  * <a href="https://chloethesis.github.io/sharing/2/" target="_blank">Two</a>
+  * <a href="https://chloethesis.github.io/sharing/3/" target="_blank">Three</a>
 
   <br />
 
