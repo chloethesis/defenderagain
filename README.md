@@ -10,4 +10,4 @@
 > >
 > > ### How To Setup?
 > >
-> > _Visit <a href="https://jekyllrb.com/">Jekkyl</a> for more.
+> > _Visit <a href="https://jekyllrb.com/">Jekkyl</a> for more._
