@@ -1,10 +1,9 @@
-title: dash
-author: GitHub User
-email: miguel-gonzalez@gmx.de
+title: Chloethesis
+url: https://chloethesis.github.io/defenderagain
+author: ashielle
+email: chloetease@waifu.club
 description: > # this means to ignore newlines until "show_exerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Ashielle/Chloe, the owner of this page, is a teenager who is kind and also helps in kindness,<br />is someone who works in the field of cyberspace and information technology.
 show_excerpts: false # set to true to show excerpts on the homepage
 
 paginate: 1
@@ -22,18 +21,18 @@ dash:
 
   # (optional) discqus comment configuration
   disqus:
-    shortname: bitbrain-github-io
+    shortname: chloethesis-github-io
 
   # generate social links in footer
   # supported colors: green, red, orange, blue, cyan, pink, teal, yellow, indigo, purple
   social_links:
-    - url: https://twitter.com/bitbrain_
+    - url: https://twitter.com/zuck
       icon: twitter-square
       color: cyan
-    - url: https://bitbrain.itch.io
+    - url: https://zuck.itch.io
       icon: itch-io
       color: red
-    - url: https://github.com/bitbrain
+    - url: https://github.com/chloethesis
       icon: github-square
       color: purple
 
