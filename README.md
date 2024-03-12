@@ -1,5 +1,9 @@
-# :dependabot: Hewo Ningen
+# 👉 [more site](https://chloethesis.github.io/defenderagain)
 
-> [!IMPORTANT]  
+![build-status](https://github.com/chloethesis/defenderagain/actions/workflows/github-pages.yml/badge.svg)
+
+
+> **Warning**
 >
-> Let me introduce myself as a natural lifeform that serves to complement life on this planet. 
+> No repo = hoax
+ 
