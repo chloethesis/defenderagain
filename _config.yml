@@ -27,3 +27,4 @@ dash:
       color: purple
       
 theme: jekyll-dash
+gem "jekyll-tagging"
