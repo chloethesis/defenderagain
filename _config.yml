@@ -1,0 +1,28 @@
+# Site specific settings
+title: "Defenderagain Blog"
+name: "Ashielle"
+keywords: "Design, Hacking, Exploit"
+baseurl: "/darcli"
+url: "http://website.com"
+description: "My blog github pages site"
+cover: "/assets/img/cover.svg"
+fanpage_id: ""
+
+# Site general settings
+lang: "en"
+lang_alternate: "pt_BR"
+ssl: false # It will redirect to https
+
+# Media
+# Just the shortname:
+# facebook: lampiaosec # Rigth
+# facebook: facebook.com/lampiaosec # Wrong
+disqus: 404
+twitter: 
+facebook: facebook.com/zuck
+github: github.com/chloethesis
+google:
+
+# Build settings
+markdown: kramdown
+permalink: /:categories/:title/
