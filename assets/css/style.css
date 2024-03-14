@@ -11,17 +11,21 @@ body {
 	padding: 5px;
 	margin: auto;
 	width: 80%;
-	border: 1px dashed rgba(255,255,255,0.7);
+	/*border: 1px dashed rgba(255,255,255,0.7);*/
+	border: 2px outset #222;
 	font-family: "Space Mono", monospace;
 }
 
 header, nav, main, footer {
 	margin: 15px;
-	border-bottom: 1px dashed rgba(255,255,255,0.5);
+	/*border-bottom: 1px dashed rgba(255,255,255,0.5);*/
+	border-bottom: 1px outset #222;
 }
 
 header, nav {
 	text-align: center;
+	float: center;
+	justify-content: center;
 }
 
 .ascii {
@@ -54,7 +58,8 @@ nav ul li a:hover {
 
 a {
 	text-decoration: none;
-	color: #2A6EA4;
+	/*color: #2A6EA4;*/
+	color: #00ff00;
 	font-weight: bold;
 }
 
@@ -75,7 +80,8 @@ pre {
 }
 
 .highlight {
-	border: 1px dashed rgba(255,255,255,0.3);
+	/*border: 1px dashed rgba(255,255,255,0.3);*/
+	border-bottom: 1px outset #222;
 	padding: 15px;
 	background-color: #0D0D0D;
 }
@@ -83,7 +89,8 @@ pre {
 img, main iframe {
 	width: 80%;
 	margin-left: 10%;
-	border: 1px dashed rgba(255,255,255,0.5);
+	/*border: 1px dashed rgba(255,255,255,0.5);*/
+	border: 1px outset #222;
 }
 
 main header {
