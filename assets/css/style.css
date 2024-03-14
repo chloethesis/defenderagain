@@ -11,15 +11,13 @@ body {
 	padding: 5px;
 	margin: auto;
 	width: 80%;
-	/*border: 1px dashed rgba(255,255,255,0.7);*/
-	border: 2px outset #222;
+	border: 3px outset rgba(255,255,255,0.7);
 	font-family: "Space Mono", monospace;
 }
 
 header, nav, main, footer {
 	margin: 15px;
-	/*border-bottom: 1px dashed rgba(255,255,255,0.5);*/
-	border-bottom: 1px outset #222;
+	border-bottom: 1px dashed rgba(255,255,255,0.5);
 }
 
 header, nav {
@@ -80,8 +78,7 @@ pre {
 }
 
 .highlight {
-	/*border: 1px dashed rgba(255,255,255,0.3);*/
-	border-bottom: 1px outset #222;
+	border: 3px outset rgba(255,255,255,0.3);
 	padding: 15px;
 	background-color: #0D0D0D;
 }
@@ -89,8 +86,7 @@ pre {
 img, main iframe {
 	width: 80%;
 	margin-left: 10%;
-	/*border: 1px dashed rgba(255,255,255,0.5);*/
-	border: 1px outset #222;
+	border: 1px dashed rgba(255,255,255,0.5);
 }
 
 main header {
