@@ -1,4 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans);
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
 html {
 	background-image: url("../img/background.gif");
@@ -11,7 +12,7 @@ body {
 	margin: auto;
 	width: 80%;
 	border: 1px dashed rgba(255,255,255,0.7);
-	font-family: "Open Sans";
+	font-family: "Space Mono", monospace;
 }
 
 header, nav, main, footer {
