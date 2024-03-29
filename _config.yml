@@ -1,42 +1,4 @@
-permalink   : /:categories/:year/:title/
-markdown    : kramdown
-highlighter : pygments
-
-paginate: 2 #6
-comments: true
-paginate_path: "/page/:num"
-
-source: source
-destination: _site
-sass:
-  sass_dir: _scss
-  style: compressed
-
-# Site settings
-title: Lora
-description: "My Github Pages"
-email: chloetease@waifu.club
-baseurl: "" # the subpath of your site, e.g. /blog/
-#url: "http://yourdomain.com"
-url: "https://chloethesis.github.io/defenderagain"
-repository: "https://chloethesis.github.io/#post"
-disqus_shortname: "chloethesis"
-google_analytics: UA-52446115-1
-
-# social footer
-social:
-  github:
-    slug: github
-    link: http://github.com/chloethesis
-  facebook:
-    slug: facebook
-    link: http://facebook.com/404
-  twitter:
-    slug: twitter
-    link: http://twitter.com/nandomoreirame
-  instagram:
-    slug: instagram
-    link: http://instagram.com/404
-  linkedin:
-    slug: linkedin
-    link: http://linkedin.com/in/404
+theme: jekyll-theme-slate
+title: Blog Post
+description: to have fun 
+title: yare yare
