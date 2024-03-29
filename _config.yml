@@ -1,28 +1,42 @@
-# Site specific settings
-title: "Defenderagain Blog"
-name: "Ashielle"
-keywords: "Design, Hacking, Exploit"
-baseurl: "/defenderagain"
-url: "http://chloethesis.github.io"
-description: "My blog github pages site"
-cover: "/assets/img/cover.svg"
-fanpage_id: ""
+permalink   : /:categories/:year/:title/
+markdown    : kramdown
+highlighter : pygments
 
-# Site general settings
-lang: "en"
-lang_alternate: "pt_BR"
-ssl: false # It will redirect to https
+paginate: 2 #6
+comments: true
+paginate_path: "/page/:num"
 
-# Media
-# Just the shortname:
-# facebook: lampiaosec # Rigth
-# facebook: facebook.com/lampiaosec # Wrong
-disqus: 404
-twitter: 
-facebook: facebook.com/zuck
-github: github.com/chloethesis
-google:
+source: source
+destination: _site
+sass:
+  sass_dir: _scss
+  style: compressed
 
-# Build settings
-markdown: kramdown
-permalink: /:categories/:title/
+# Site settings
+title: Lora
+description: "My Github Pages"
+email: chloetease@waifu.club
+baseurl: "" # the subpath of your site, e.g. /blog/
+#url: "http://yourdomain.com"
+url: "https://chloethesis.github.io/defenderagain"
+repository: "https://chloethesis.github.io/#post"
+disqus_shortname: "chloethesis"
+google_analytics: UA-52446115-1
+
+# social footer
+social:
+  github:
+    slug: github
+    link: http://github.com/chloethesis
+  facebook:
+    slug: facebook
+    link: http://facebook.com/404
+  twitter:
+    slug: twitter
+    link: http://twitter.com/nandomoreirame
+  instagram:
+    slug: instagram
+    link: http://instagram.com/404
+  linkedin:
+    slug: linkedin
+    link: http://linkedin.com/in/404
