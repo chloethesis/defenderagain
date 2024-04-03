@@ -1,5 +1,5 @@
-<h1 align="left">
+<h2 align="left">
   <samp>
     Welcome Everyone! 🐙
   </samp>
-</h1>
+</h2>
