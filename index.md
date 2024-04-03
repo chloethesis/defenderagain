@@ -1,5 +1,5 @@
 <h1 align="left">
   <samp>
-    Welcome Vveryone 🐙
+    Welcome Everyone! 🐙
   </samp>
 </h1>
