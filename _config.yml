@@ -1,4 +1,5 @@
-theme: jekyll-theme-slate
-title: Blog Post
-description: My Personal Profile
-title: The More You Know
+title: My Blog
+description: Simple & Responsive
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-cayman
