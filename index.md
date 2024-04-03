@@ -1,5 +1,5 @@
 <h1 align="left">
   <samp>
-    みなさんようこそ:octocat:
+    Welcome Vveryone 🐙
   </samp>
 </h1>
