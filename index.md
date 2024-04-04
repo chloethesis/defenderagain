@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Forbidden Pages 🕵️
+description: Yokoso! Kira Kira, Doki Doki, Mochi Mochi, Puyo Puyo, Waku Waku, Wasshoi!
 ---
 
 
