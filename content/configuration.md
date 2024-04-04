@@ -8,4 +8,4 @@ description: Place of upload page.
 
 _holaa_
 
-[back](./)
+[back](../)
