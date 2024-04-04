@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Content
-description: Post Content
+title: Content Pages
+description: Place of upload page.
 ---
 
 # How To Configure Jekkyl Github Pages
