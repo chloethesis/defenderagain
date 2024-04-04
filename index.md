@@ -44,4 +44,4 @@ This page is a place to express some ideas that link to the theme of the page an
 <br />
 <br />
 
-<h1 align="right"><samp><a href="#top">👆</a></samp></h1>
+<a href="#top">Back To Top</a>
