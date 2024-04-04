@@ -26,4 +26,4 @@ theme: jekyll-theme-cayman
 <br />
 
 
-[< Back To Index](../)
+[< Back To Index](../) &emsp;&emsp; [Next Content >](../)
