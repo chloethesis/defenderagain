@@ -12,7 +12,7 @@ This page is a place to express some ideas that link to the theme of the page an
 
 
 
-## About Author 👀
+# About Author 👀
 
 | PROFILE        | ABOUT          | MY HOBBY |
 |:-------------|:------------------|:------|
@@ -22,7 +22,7 @@ This page is a place to express some ideas that link to the theme of the page an
 
 
 
-## Posts
+# Posts 🖊️
 
 *   [How to configure jekyll github pages.](./content/configuration.html)
 *   This is an unordered list following a header.
@@ -30,12 +30,12 @@ This page is a place to express some ideas that link to the theme of the page an
 
 
 
-## My Docs
+# My Docs 📜
 
 *   [My Docs](./docs/docs.html)
 
 
 
-## Forums 
+# Forums 🐻‍❄️
 
 *   [Discussions Forum](./discussions/discussions.html)
