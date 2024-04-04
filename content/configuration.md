@@ -4,7 +4,7 @@ title: Content Pages
 description: Place of upload page.
 ---
 
-# How To Configure Jekkyl Github Pages
+# How To Configure Jekyll Github Pages
 
 1.  The first step is to create a file called **_config.yml** and provide the source code, as shown below.
 
