@@ -24,9 +24,9 @@ This page is a place to express some ideas that link to the theme of the page an
 
 # Posts 🖊️
 
-*   [How to configure jekyll github pages.](./content/configuration.html)
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+*   [What is BadSec?](./content/badsec.html)
+*   [How to configure jekyll github pages](./content/configuration.html)
+*   *   [What Are Site Cookies?](./content/cookie.html)
 
 
 
