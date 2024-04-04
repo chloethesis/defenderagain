@@ -14,9 +14,9 @@ description: Yare Yare
 
 **Projects:**
 
-* **Project 1:** A web app that helps users find and track their fitness goals.
-* **Project 2:** A machine learning model that can detect fake news.
-* **Project 3:** A mobile app that helps users learn a new language.
+* **Project 1:** Create a simple search program in Python, and can be used as Google dorking.
+* **Project 2:** Create an API Tools website to simplify the penetration process and so on.
+* **Project 3:** Create designs for parts of the website, such as login pages, website cards.
 
 **Skills:**
 
