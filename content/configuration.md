@@ -6,6 +6,6 @@ description: Place of upload page.
 
 # How To Configure Jekkyl Github Pages
 
-_holaa_
+_404_
 
-[back](../)
+[< Back To Index](../)
