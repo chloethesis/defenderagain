@@ -26,8 +26,7 @@ description: Yare Yare
 
 **Contributions:**
 
-* **Project 1:** Contributed to the design and development of the web app.
-* **Project 2:** Created a dataset of fake and real news articles.
-* **Project 3:** Developed the user interface for the mobile app.
+* **Contribution 1:** 404 btw
+
 
 [< Back To Index](../)
