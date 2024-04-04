@@ -48,6 +48,7 @@ This page is a place to express some ideas that link to the theme of the page an
 *   [What is BadSec?](./content/badsec.html)
 *   [How to configure jekyll github pages](./content/configuration.html)
 *   [What Are Site Cookies?](./content/cookie.html)
+*   [Anti ransomware engine / Decryptor](./content/decryptor.html)
   
 <br />
 
