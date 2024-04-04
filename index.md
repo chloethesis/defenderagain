@@ -16,7 +16,7 @@ This page is a place to express some ideas that link to the theme of the page an
 
 | PROFILE        | ABOUT          | SKILLS |
 |:-------------|:------------------|:------|
-| IMG           | good swedish fish | nice  |
+| <a href="cia.gov"><img src="https://telegra.ph/file/3baef8860fcb8b89848f3.png" width="100%" alt="Image"></a>           | good swedish fish | nice  |
 
 <br />
 
