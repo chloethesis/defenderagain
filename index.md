@@ -33,3 +33,9 @@ This page is a place to express some ideas that link to the theme of the page an
 ## My Docs
 
 *   [My Docs](./docs/docs.html)
+
+
+
+## Forums 
+
+*   [Discussions Forum](./discussions/discussions.html)
