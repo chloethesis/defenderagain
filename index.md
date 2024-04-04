@@ -42,4 +42,4 @@ This page is a place to express some ideas that link to the theme of the page an
 
 
 
-<a href="#top">👆</a>
+<h2><a href="#top">👆</a></h2>
