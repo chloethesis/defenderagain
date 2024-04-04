@@ -42,6 +42,5 @@ This page is a place to express some ideas that link to the theme of the page an
 
 
 <br />
-<br />
 
-<h1 align="right"><a style="text-decoration:none;" href="#top">👆</a></h1>
+<h2 align="right"><a style="text-decoration:none;" href="#top">👆</a></h2>
