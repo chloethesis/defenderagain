@@ -64,7 +64,7 @@ This page is a place to express some ideas that link to the theme of the page an
 
 # Forums 🐻‍❄️
 
-*   [Discussions Forum](./discussions/discussions.html) - Cooming Soon!
+*   [Discussions Forum](./discussions/) - New!
   
 <br />
 
