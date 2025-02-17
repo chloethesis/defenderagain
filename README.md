@@ -1,6 +1,6 @@
 # 👉 [クリックしてください先輩 >///<](https://chloethesis.github.io/defenderagain)
 
-![build-status](https://github.com/chloethesis/defenderagain/actions/workflows/github-pages.yml/badge.svg)
+![build-status](https://github.com/chloethesis/defenderagain/actions/workflows/github-pages.yml/badge.svg?branch=main)
 
 <br />
 
