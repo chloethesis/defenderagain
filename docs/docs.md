@@ -1,32 +1,32 @@
 ---
 layout: default
-title: Docs Pages
-description: Yare Yare
+title: ドキュメントページ
+description: ヤレヤレ
 ---
 
-# My Docs 📜
+# 私のドキュメント 📜
 
-**GitHub Documentation**
+**ドキュメント**
 
-**User:** @chloethesis
+**ユーザー:** @chloethesis
 
-**Bio:** "Just to fill free time."
+**略歴:** 「空き時間を埋めるためだけに。」
 
-**Projects:**
+**プロジェクト:**
 
-* **Project 1:** Create a simple search program in Python, and can be used as Google dorking.
-* **Project 2:** Create an API Tools website to simplify the penetration process and so on.
-* **Project 3:** Create designs for parts of the website, such as login pages, website cards.
+* **プロジェクト 1:** Python で簡単な検索プログラムを作成し、Google ドーキングとして使用できます。
+* **プロジェクト 2:** API ツール Web サイトを作成して、侵入プロセスなどを簡素化します。
+* **プロジェクト 3:** ログイン ページ、Web サイト カードなど、Web サイトの一部のデザインを作成します。
 
-**Skills:**
+**スキル:**
 
-* **Programming:** Python, JavaScript
-* **Web development:** HTML, CSS
-* **Tools:** VsCode, Git Bash, Terminal, Github Desktop
+* **プログラミング:** Python、JavaScript
+* **Web開発:** HTML、CSS
+* **ツール:** VsCode、Git Bash、ターミナル、Github デスクトップ
 
-**Contributions:**
+**貢献:**
 
-* **Contribution 1:** 404 btw
+* **貢献 1:** ところで 404
 
 
 [< Back To Index](../)
