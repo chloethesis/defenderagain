@@ -77,10 +77,10 @@ _このページは、ページのテーマとその内容に関連するいく�
 
 # サイトの投稿 🖊️
 
-*   [What is BadSec?](./content/badsec.html)
-*   [How to configure jekyll github pages](./content/configuration.html)
-*   [What Are Site Cookies?](./content/cookie.html)
-*   [Anti ransomware engine / Decryptor](./content/decryptor.html)
+*   [BadSecとは何ですか?](./content/badsec.html)
+*   [jekyll github ページを構成する方法](./content/configuration.html)
+*   [サイト Cookie とは何ですか?](./content/cookie.html)
+*   [アンチランサムウェア エンジン / 復号化ツール](./content/decryptor.html)
   
 <br />
 
@@ -88,7 +88,7 @@ _このページは、ページのテーマとその内容に関連するいく�
 
 # 私のドキュメント 📜
 
-*   [My Docs](./docs/docs.html)
+*   [ドキュメント](./docs/docs.html)
   
 <br />
 
@@ -96,7 +96,7 @@ _このページは、ページのテーマとその内容に関連するいく�
 
 # 会話 🐻‍❄️
 
-*   [Public Conversation](./discussions/) - New!
+*   [公の場での会話](./discussions/) - オンライン！
   
 <br />
 
