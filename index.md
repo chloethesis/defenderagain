@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Forbidden Pages 🕵️
-description: Yokoso! Kira Kira, Doki Doki, Mochi Mochi, Puyo Puyo, Waku Waku, Wasshoi!
+title: 禁止されたページ 🕵️
+description: ヨコソ！キラキラ、ドキドキ、もちもち、ぷよぷよ、わくわく、わっしょい！
 ---
 
 
 
-# Welcome Everyone! 🐙
+# 友達へようこそ 🐙
 
 <pre align="left">
 ⣇⣿⠘⣿⣿⣿⡿⡿⣟⣟⢟⢟⢝⠵⡝⣿⡿⢂⣼⣿⣷⣌⠩⡫⡻⣝⠹⢿⣿⣷
@@ -25,7 +25,7 @@ description: Yokoso! Kira Kira, Doki Doki, Mochi Mochi, Puyo Puyo, Waku Waku, Wa
 ⡝⡵⡕⡀⠑⠳⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠛⢉⡠⡲⡫⡪⡪⡣ 
 </pre>
 
-This page is a place to express some ideas that link to the theme of the page and its content.
+_このページは、ページのテーマとその内容に関連するいくつかのアイデアを表現する場所です。_
 
 <p align="left">
 <a href="mailto:chloetease@waifu.club" target="_blank"><img src="https://img.shields.io/badge/Gmail-c14438.svg?&style=plastic&logo=gmail&logoColor=white" alt="Email"></a>
@@ -37,7 +37,7 @@ This page is a place to express some ideas that link to the theme of the page an
 
 
 
-# Language
+# マスターしたプログラミング言語
 
 <p align="left">
 <img alt="python" src="https://img.shields.io/badge/Python-3572a5?style=plastic&logo=python&logoColor=white">
@@ -50,17 +50,17 @@ This page is a place to express some ideas that link to the theme of the page an
 
 
 
-# About Author 👀
+# 私について？ 👀
 
-| PROFILE        | ABOUT          | HOBBY |
+| アバター        | お知らせ          | 趣味 |
 |:-------------|:------------------|:------|
-| <a href="cia.gov"><img src="https://telegra.ph/file/3baef8860fcb8b89848f3.png" width="100%" alt="Image"></a>           | Hello bro, my name is (_unknown_) a teenager who came from the planet Namek and then explored space and was tossed by the distortion of space and time so that he came to this world. | Enjoying leisure time  |
+| <a href="cia.gov"><img src="https://telegra.ph/file/3baef8860fcb8b89848f3.png" width="100%" alt="Image"></a>           | こんにちは、私の名前は（不明）ナメック星から来て宇宙を探索し、時空の歪みに翻弄されてこの世界に来たティーンエイジャーです。 | メニクマティ ワクトゥ ルアン  |
 
 <br />
 
 
 
-# Posts 🖊️
+# サイトの投稿 🖊️
 
 *   [What is BadSec?](./content/badsec.html)
 *   [How to configure jekyll github pages](./content/configuration.html)
@@ -71,7 +71,7 @@ This page is a place to express some ideas that link to the theme of the page an
 
 
 
-# My Docs 📜
+# 私のドキュメント 📜
 
 *   [My Docs](./docs/docs.html)
   
@@ -79,9 +79,9 @@ This page is a place to express some ideas that link to the theme of the page an
 
 
 
-# Forums 🐻‍❄️
+# 会話 🐻‍❄️
 
-*   [Discussions Forum](./discussions/) - New!
+*   [Public Conversation](./discussions/) - New!
   
 <br />
 
