@@ -1,4 +1,4 @@
-# 👉 [more site](https://chloethesis.github.io/defenderagain)
+# 👉 [クリックしてください先輩 >///<](https://chloethesis.github.io/defenderagain)
 
 ![build-status](https://github.com/chloethesis/defenderagain/actions/workflows/github-pages.yml/badge.svg)
 
@@ -6,8 +6,8 @@
 
 > [!IMPORTANT]  
 >
-> _I used jekkyl and customized it_
+> _jekkylを使ってカスタマイズしてみました_
 > >
-> > ### How To Setup?
+> > ### セットアップ方法?
 > >
-> > _Visit <a href="https://jekyllrb.com/">Jekkyl</a> for more._
+> > _詳細については、<a href="https://jekyllrb.com/">Jekyll</a> をご覧ください。_
