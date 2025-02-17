@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Content Pages
-description: Place of upload page.
+title: コンテンツページ
+description: アップロードページの場所。
 ---
 
-# What is BadSec?
+# BadSec とは何ですか?
 
 _404_
 
