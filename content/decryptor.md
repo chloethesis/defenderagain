@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Content Pages
-description: Place of upload page.
+title: コンテンツページ
+description: アップロードページの場所。
 ---
 
-# Anti ransomware engine / Decryptor
+# ランサムウェア対策エンジン / 復号化ツール
 
 _404_
 
