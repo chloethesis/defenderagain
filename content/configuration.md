@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Content Pages
-description: Place of upload page.
+title: コンテンツページ
+description: アップロードページの場所。
 ---
 
-# How To Configure Jekyll Github Pages
+# Jekyll Github ページを構成する方法
 
 <a href="https://google.com/search?q=jekyll"><img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jekyll/jekyll.png" width="100%" alt="Jekyll Logo"></a><br />
 
-*  The first step is to create a file called **_config.yml** and provide the source code, as shown below.
+*  最初のステップは、以下に示すように、**_config.yml** というファイルを作成し、ソース コードを提供することです。
 
 
 ```yml
@@ -20,10 +20,10 @@ theme: jekyll-theme-cayman
 ```
 
 
-*  After that, create a **README.md** or **index.md** post to serve as the main page.
+* その後、メイン ページとして機能する **README.md** または **index.md** 投稿を作成します。
 
 
-*  After everything is done, you just need to enter some content and design according to your wishes.
+※すべてが完了したら、必要に応じてコンテンツとデザインを入力するだけです。
 
 <br />
 
