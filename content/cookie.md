@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Content Pages
-description: Place of upload page.
+title: コンテンツページ
+description: アップロードページの場所。
 ---
 
-# What Are Site Cookies?
+# サイト Cookie とは何ですか?
 
 _404_
 
